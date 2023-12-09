@@ -1,7 +1,6 @@
 {
     "recommendations": [
         "ms-ceintl.vscode-language-pack-ru",
-        "ms-python.python",
         "ms-python.pylint",
         "ms-python.vscode-pylance",
         "ms-vscode.powershell",
@@ -13,6 +12,17 @@
         "pranaygp.vscode-css-peek",
         "ms-python.black-formatter",
         "formulahendry.auto-rename-tag",
-        "ms-vscode-remote.remote-ssh"
+        "ms-vscode-remote.remote-ssh",
+        "josemurilloc.aura-spirit-dracula",
+        "ms-vscode.cpptools",
+        "ms-vscode-remote.remote-containers",
+        "github.vscode-pull-request-github",
+        "ms-azuretools.vscode-docker",
+        "xabikos.javascriptsnippets",
+        "esbenp.prettier-vscode",
+        "ms-python.python",
+        "ms-vscode-remote.remote-ssh-edit",
+        "ms-vscode.remote-explorer",
+        "ms-vscode-remote.remote-wsl"
     ]
   }
