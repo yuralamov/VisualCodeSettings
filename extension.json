@@ -1,0 +1,18 @@
+{
+    "recommendations": [
+        "ms-ceintl.vscode-language-pack-ru",
+        "ms-python.python",
+        "ms-python.pylint",
+        "ms-python.vscode-pylance",
+        "ms-vscode.powershell",
+        "zhuangtongfa.material-theme",
+        "pkief.material-icon-theme",
+        "ritwickdey.liveserver",
+        "zignd.html-css-class-completion",
+        "batisteo.vscode-django",
+        "pranaygp.vscode-css-peek",
+        "ms-python.black-formatter",
+        "formulahendry.auto-rename-tag",
+        "ms-vscode-remote.remote-ssh"
+    ]
+  }
